@@ -1,6 +1,6 @@
 # 아고다 할인코드 4월 – 카드할인 / 프로모션 / 쿠폰 정리
 
-[![아고다 할인 배너](https://chat.openai.com/mnt/data/agoda-top-banner.png)](http://app.ac/fqpbuo203)
+[![아고다 할인 배너](https://github.com/promocode-hub/agoda-promocode/blob/main/agoda.JPG?raw=true)](http://app.ac/fqpbuo203)
 
 ---
 
